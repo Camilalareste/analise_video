@@ -126,10 +126,4 @@ print("1. Certifique-se de que os arquivos 'arquivo1.csv' e 'arquivo2.csv' estã
 print("2. Verifique se os arquivos CSV contêm as colunas 'id', 'receita' e 'gastos'.")
 print("3. Se as bibliotecas pandas, matplotlib ou seaborn não estiverem instaladas, execute no terminal:")
 print("   pip install pandas matplotlib seaborn")
-# Fim do script
-# O script termina aqui. Se houver mais alguma coisa, ela não faz parte deste código.
-# O código acima é um exemplo de como fazer uma análise financeira simples com Python.
-# e pandas, incluindo a leitura de arquivos CSV, manipulação de dados e geração de gráficos.
-# O código é bem comentado para facilitar o entendimento.
-# O código é um exemplo de como fazer uma análise financeira simples com Python.
-# e pandas, incluindo a leitura de arquivos CSV, manipulação de dados e geração de gráficos.
+                    
